@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragment.ProfileFragment"
+    android:orientation="vertical"
+    android:background="@drawable/book_background">
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:src="@drawable/username"
+        android:layout_marginStart="150dp"
+        android:layout_marginTop="150dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/diya_jain"
+        android:layout_marginStart="160dp"
+        android:layout_marginTop="20dp"
+        android:textSize="30sp"
+        android:textColor="#C23E10"
+        android:textStyle="bold"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/diyajain7424_gmail_com"
+        android:layout_marginStart="140dp"
+        android:layout_marginTop="15dp"
+        android:textSize="16sp"
+        android:textColor="#C23E10"
+        android:textStyle="bold"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/_91_7424846690"
+        android:layout_marginStart="150dp"
+        android:layout_marginTop="15dp"
+        android:textSize="16sp"
+        android:textColor="#C23E10"
+        android:textStyle="bold"
+        />
+
+
+
+</LinearLayout>

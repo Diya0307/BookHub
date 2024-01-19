@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">BookHub</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="about_app">About App</string>
+    <string name="profile">Profile</string>
+    <string name="favourites">Favourites</string>
+
+    <string name="open_drawer">Open Drawer</string>
+    <string name="closed_drawer">Closed Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="dashboard_fragment">Dashboard fragment</string>
+    <string name="favourites_fragment">Favourites fragment</string>
+    <string name="profile_fragment">Profile fragment</string>
+    <string name="about_app_fragment">About app fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_to_favourites">Add to Favourites</string>
+    <string name="remove_from_favourites">Remove from Favourites</string>
+    <string name="action_sort">Sort</string>
+    <string name="diya_jain">Diya Jain</string>
+    <string name="_91_7424846690">+91 - 7424846690</string>
+    <string name="diyajain7424_gmail_com">diyajain7424@gmail.com</string>
+    <string name="this_app_is_all_about_the_books_it_helps_the_books_enthusiasts_to_find_books_of_their_choices">This app is all about the books. It helps the books enthusiasts to find books of their choices.</string>
+
+</resources>
